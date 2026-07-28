@@ -3,10 +3,6 @@ package javaapplication292;
 import java.util.Scanner;
 import static javaapplication292.Strong.fact;
 
-/**
- *
- * @author SMV
- */
 public class Armstrong {
 
     /**
